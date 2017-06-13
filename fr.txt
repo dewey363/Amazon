@@ -1,0 +1,80 @@
+Photo & Caméscopes|https://www.amazon.fr/appareils-photo-num%C3%A9riques-canon-camescopes/b/ref=sd_allcat_pcam?ie=UTF8&node=13910691
+TV & Home cinéma|https://www.amazon.fr/tv-homecinema-barresdeson/b/ref=sd_allcat_tvv?ie=UTF8&node=13910681
+Audio & HiFi|https://www.amazon.fr/b/ref=sd_allcat_hchifi?ie=UTF8&node=682942031
+GPS & Auto|https://www.amazon.fr/gps-accessoires-radar-TomTom-Garmin/b/ref=sd_allcat_igps?ie=UTF8&node=13910721
+Instruments de musique & Sono|https://www.amazon.fr/Instruments-De-Musique-Sono/b/ref=sd_allcat_mi?ie=UTF8&node=340861031
+Objets connectés|https://www.amazon.fr/objets-connectes/b/ref=sd_allcat_obj_con?ie=UTF8&node=4551203031
+Tous les accessoires High-Tech|https://www.amazon.fr/b/ref=sd_allcat_el_acc?ie=UTF8&node=2403398031
+Tout l'univers High-Tech|https://www.amazon.fr/photo-TV-mp3-Hifi-GPS/b/ref=sd_allcat_el?ie=UTF8&node=13921051
+Imprimantes & Encres|https://www.amazon.fr/Informatique-Imprimante-Cartouche-encre/b/ref=sd_allcat_impr?ie=UTF8&node=514847031
+Fournitures scolaires et de bureau|https://www.amazon.fr/fournitures-materiel-bureau-papiers-mobilier/b/ref=sd_allcat_ilos?ie=UTF8&node=192419031
+Jeux PC|https://www.amazon.fr/Jeux-video-PC/b/ref=sd_allcat_pcvg?ie=UTF8&node=548026
+Tous les accessoires Informatique|https://www.amazon.fr/b/ref=sd_allcat_pcacc?ie=UTF8&node=2403398031
+Jeux et Jouets|https://www.amazon.fr/jeux-jouets/b/ref=sd_allcat_jej?ie=UTF8&node=322086011
+Bébés & Puériculture|https://www.amazon.fr/bebe-puericulture/b/ref=sd_allcat_baby?ie=UTF8&node=206617031
+Vêtements et Chaussures|https://www.amazon.fr/b/ref=sd_allcat_kidsapr?ie=UTF8&node=9312212031
+Livres|https://www.amazon.fr/livre-enfant-album-jeunesse/b/ref=sd_allcat_jlv?ie=UTF8&node=301137
+Petit électroménager|https://www.amazon.fr/petit-%C3%A9lectrom%C3%A9nager/b/ref=sd_allcat_pe?ie=UTF8&node=57696031
+Aspirateurs et Repassage|https://www.amazon.fr/b/ref=sd_allcat_floorcare?ie=UTF8&node=3359528031
+Gros électroménager|https://www.amazon.fr/Gros-Electromenager/b/ref=sd_allcat_la?ie=UTF8&node=908826031
+Ameublement et Décoration|https://www.amazon.fr/Ameublement-D%C3%A9coration-Cuisine-Cat%C3%A9gories-Maison/b/ref=sd_allcat_dec?ie=UTF8&node=57694031
+Rangement et Organisation|https://www.amazon.fr/b/ref=sd_allcat_housewares?ie=UTF8&node=2916060031
+Arts culinaires et Arts de la Table|https://www.amazon.fr/casseroles-ustensiles-arts-culinaires/b/ref=sd_allcat_cook?ie=UTF8&node=59451031
+Linge de maison|https://www.amazon.fr/Linge-Textiles-Ameublement-D%C3%A9coration-Cuisine-Cat%C3%A9gories/b/ref=sd_allcat_linen?ie=UTF8&node=68991031
+Literie|https://www.amazon.fr/literie-matelas-sommiers/b/ref=sd_allcat_bedding?ie=UTF8&node=2818619031
+Luminaires et Eclairage|https://www.amazon.fr/luminaire/b/ref=sd_allcat_light?ie=UTF8&node=213080031
+Tous les produits Cuisine et Maison|https://www.amazon.fr/cuisine-maison-%C3%A9lectrom%C3%A9nager/b/ref=sd_allcat_allkhg?ie=UTF8&node=57004031
+Outillage électroportatif|https://www.amazon.fr/perceuses-visseuses-scies-meuleuses-ponceuses/b/ref=sd_allcat_hi_ptls?ie=UTF8&node=1794242031
+Outillage à main|https://www.amazon.fr/tournevis-marteaux-cl%C3%A9s-douilles-pinces/b/ref=sd_allcat_hi_htls?ie=UTF8&node=1794243031
+Plomberie et Sanitaires|https://www.amazon.fr/robinetterie-bain-douche-sanitaire-lavabos/b/ref=sd_allcat_plumb?ie=UTF8&node=1854654031
+Chauffage et Climatisation|https://www.amazon.fr/Chauffage-Climatisation/b/ref=sd_allcat_heat?ie=UTF8&node=1854540031
+Jardin|https://www.amazon.fr/jardin/b/ref=sd_allcat_garden?ie=UTF8&node=3557027031
+Tous les produits Bricolage|https://www.amazon.fr/outillage-%C3%A9lectroportatif-quincaillerie-plomberie-%C3%A9lectricit%C3%A9/b/ref=sd_allcat_hi_allhi?ie=UTF8&node=590748031
+Tout pour les animaux|https://www.amazon.fr/b/ref=sd_allcat_pets?ie=UTF8&node=1571268031
+Toute la Beauté|https://www.amazon.fr/Parfums-cosm%C3%A9tiques/b/ref=sd_allcat_gno_beaute?ie=UTF8&node=197858031
+Beauté Prestige|https://www.amazon.fr/b/ref=sd_allcat_gno_prestige?ie=UTF8&node=4238422031
+Univers Homme|https://www.amazon.fr/beaute-soins-homme/b/ref=sd_allcat_gno_homme?ie=UTF8&node=462986031
+Hygiène et Santé|https://www.amazon.fr/hygi%C3%A8ne-sant%C3%A9-soins-du-corps/b/ref=sd_allcat_gno_hygienesante?ie=UTF8&node=197861031
+Entretien de la maison|https://www.amazon.fr/Entretien-de-la-maison-nettoyage/b?ie=UTF8&node=6357403031
+Femme|https://www.amazon.fr/Amazon-Mode/b/ref=sd_allcat_fashion_women?ie=UTF8&node=2726544031
+Homme|https://www.amazon.fr/Mode-Homme/b/ref=sd_allcat_fashion_men?ie=UTF8&node=9312211031
+Enfant & Bébé|https://www.amazon.fr/b/ref=sd_allcat_fashion_girls?ie=UTF8&node=9312212031
+Sacs à main|https://www.amazon.fr/sacs-femme/b/ref=sd_allcat_handbags?ie=UTF8&node=1765336031
+Sacs homme|https://www.amazon.fr/sacs-homme/b/ref=sd_allcat_bags_men?ie=UTF8&node=1765350031
+Bagages|https://www.amazon.fr/bagages/b/ref=sd_allcat_luggage?ie=UTF8&node=2454145031
+Lunettes de soleil|https://www.amazon.fr/b/ref=sd_allcat_sunglasses?ie=UTF8&node=6106716031
+Promotions|https://www.amazon.fr/promotions-mode/b/ref=sd_allcat_fashion_outlet?ie=UTF8&node=5812995031
+Bijoux|https://www.amazon.fr/Bijoux-Bagues-Bracelets-Colliers-Boucles-d-oreilles/b/ref=sd_allcat_appareljewelry?ie=UTF8&node=193710031
+Tous les Sports et Loisirs|https://www.amazon.fr/sports-loisirs-fitness/b/ref=sd_allcat_outdoorsports?ie=UTF8&node=325614031
+Fitness et Musculation|https://www.amazon.fr/fitness-musculation-electrostimulation-yoga-pilates/b/ref=sd_allcat_fitness?ie=UTF8&node=339867031
+Camping et Randonnée|https://www.amazon.fr/Randonn%C3%A9e-Camping-sport-loisir/b/ref=sd_allcat_camping?ie=UTF8&node=339808031
+Cyclisme|https://www.amazon.fr/Cyclisme-v%C3%A9lo-vtt-bmx-roues/b/ref=sd_allcat_cycle?ie=UTF8&node=340001031
+Football|https://www.amazon.fr/football-foot-supporters-drapeaux-maillots/b/ref=sd_allcat_soccer?ie=UTF8&node=339892031
+Running|https://www.amazon.fr/course-pied-running-cardiofr%C3%A9quencem%C3%A8tres/b/ref=sd_allcat_running?ie=UTF8&node=340029031
+Glisse urbaine|https://www.amazon.fr/skateboard-longboard-trottinette-rollers-glisse/b/ref=sd_allcat_GNO2column?ie=UTF8&node=667153031
+Natation|https://www.amazon.fr/natation-maillots-bonnets-piscines-lunettes/b/ref=sd_allcat_gno2column?ie=UTF8&node=340048031
+Vêtements de sport|https://www.amazon.fr/vetements-sport-sweatshirt-veste-debardeur/b/ref=sd_allcat_sportswear?ie=UTF8&node=1610709031
+Chaussures de sport|https://www.amazon.fr/chaussures-sport/b/ref=sd_allcat_gno2column?ie=UTF8&node=2105835031
+Pièces et accessoires Auto|https://www.amazon.fr/Voiture-et-moto/b/ref=sd_allcat_auto_car_acc_parts?ie=UTF8&node=1571265031
+Outils et dépannage|https://www.amazon.fr/b/ref=sd_allcat_auto_tools_equip?ie=UTF8&node=2567038031
+Pièces et accessoires Moto|https://www.amazon.fr/Motos-accessoires-pieces/b/ref=sd_allcat_auto_moto_acc_parts?ie=UTF8&node=2429489031
+GPS & Auto|https://www.amazon.fr/gps-accessoires-radar-TomTom-Garmin/b/ref=sd_allcat_igps?ie=UTF8&node=13910721
+Tous les produits Commerce, Industrie et Science|https://www.amazon.fr/b/ref=sd_allcat_lab?ie=UTF8&node=6605337031
+Nettoyage|https://www.amazon.fr/b/ref=sd_allcat_jan?ie=UTF8&node=6605147031
+Sécurité|https://www.amazon.fr/b/ref=sd_allcat_safety?ie=UTF8&node=6605267031
+Produits Handmade|https://www.amazon.fr/handmade/b/ref=sd_allcat_HM_Home?ie=UTF8&node=9699368031
+Bijoux|https://www.amazon.fr/b/ref=sd_allcat_HM_Jewelry?ie=UTF8&node=10737094031
+Accessoires, sacs et affaires de voyage|https://www.amazon.fr/b/ref=sd_allcat_HM_accessories?ie=UTF8&node=10737100031
+Décoration d'intérieur|https://www.amazon.fr/b/ref=sd_allcat_HM_homedecor?ie=UTF8&node=10737157031
+Œuvres d'art|https://www.amazon.fr/b/ref=sd_allcat_nav_shopall_HM_artwork?ie=UTF8&node=10737160031
+Fournitures de bureau et articles de fête|https://www.amazon.fr/b/ref=sd_allcat_nav_shopall_HM_stationery?ie=UTF8&node=10737096031
+Cuisine et salle à manger|https://www.amazon.fr/b/ref=sd_allcat_HM_kitchen?ie=UTF8&node=10737156031
+Meubles|https://www.amazon.fr/b/ref=sd_allcat_HM_furniture?ie=UTF8&node=10737159031
+Bébé et Puériculture|https://www.amazon.fr/b/ref=sd_allcat_HM_baby?ie=UTF8&node=10737095031
+Jeux et Jouets|https://www.amazon.fr/b/ref=sd_allcat_HM_toysgames?ie=UTF8&node=10737098031
+Made in Italy|https://www.amazon.fr/b/ref=sd_allcat_HM_mii?ie=UTF8&node=12440605031
+Soin de la personne|https://www.amazon.fr/Soin-Personne/b/ref=sd_allcat_launch_body?ie=UTF8&node=10525449031
+Alimentation|https://www.amazon.fr/Alimentation/b/ref=sd_allcat_launch_food?ie=UTF8&node=10525454031
+High-Tech|https://www.amazon.fr/High-Tech/b/ref=sd_allcat_launch_gadgets?ie=UTF8&node=10525458031
+Maison|https://www.amazon.fr/Maison/b/ref=sd_allcat_launch_house?ie=UTF8&node=10525468031
+Jouets|https://www.amazon.fr/Jouets/b/ref=sd_allcat_launch_toys?ie=UTF8&node=10525474031
